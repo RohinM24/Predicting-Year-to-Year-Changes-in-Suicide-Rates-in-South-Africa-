@@ -1,3 +1,5 @@
+Please download the zip files and open in on Google Colab, or Jupyter Notebook
+
 Predicting Year-to-Year Changes in Suicide Rates in South Africa
 
 A Panel-Based Socioeconomic Modeling Approach
